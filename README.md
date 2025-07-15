@@ -1,16 +1,21 @@
-## Hi there 👋
+# 📡 Proyecto Telecom QA
 
-<!--
-**hernycai/hernycai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este es un proyecto de automatización y testing QA para servicios de telefonía e internet. Incluye scripts, herramientas y casos de prueba orientados a asegurar la calidad de los servicios de red.
 
-Here are some ideas to get you started:
+## 🚀 Características
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pruebas automatizadas (API/UI)
+- Scripts para validaciones técnicas
+- Casos de prueba documentados
+- Reportes de resultados
+- Integración con herramientas de CI/CD (opcional)
+
+## 🔧 Tecnologías utilizadas
+
+- 🐍 Python / JavaScript
+- 🧪 Selenium / Postman / JMeter
+- 🐘 PostgreSQL / MySQL
+- 🐙 Git / GitHub Actions
+
+## 📁 Estructura del proyecto
+
