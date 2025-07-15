@@ -17,5 +17,4 @@ Este es un proyecto de automatización y testing QA para servicios de telefonía
 - 🐘 PostgreSQL / MySQL
 - 🐙 Git / GitHub Actions
 
-## 📁 Estructura del proyecto
-
+https://www.linkedin.com/in/hernanluciano/
